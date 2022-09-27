@@ -1,5 +1,5 @@
 # n0sz/commonmark-marker-extension
-This library adds support of highlighted text (<mark> HTML tag) to [league/commonmark](https://github.com/thephpleague/commonmark)
+This library adds support of highlighted text (`<mark>` HTML tag) to [league/commonmark](https://github.com/thephpleague/commonmark)
 # Installation
 This project can be installed via composer:
 ```
